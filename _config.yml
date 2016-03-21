@@ -1,6 +1,6 @@
 name: the conformist manifesto
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.25835
 typography_spectrum: 0
 title: The Conformist Manifesto
 cta:
@@ -18,12 +18,12 @@ opengraph:
 color:
   brandColors:
     - '#fefefe'
-    - '#a1111b'
-    - '#ecd6d9'
-    - '#c08899'
-    - '#a2596d'
-  brandStrength: 0.5625
-  lightness: 0.20299724978394806
-  saturation: 0.8913004801142961
-  rhythmicContrast: 0.1296971805859357
+    - '#000000'
+    - '#9e111a'
+    - '#c1c1c1'
+    - '#484848'
+  brandStrength: 0
+  lightness: 0.6875
+  saturation: 0.1875
+  rhythmicContrast: 0.25
 purpose: []
