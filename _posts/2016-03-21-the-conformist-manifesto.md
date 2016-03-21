@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: How It All Goes Down
-datePublished: '2016-03-21T06:04:31.627Z'
-dateModified: '2016-03-21T06:03:51.276Z'
+datePublished: '2016-03-21T13:46:10.499Z'
+dateModified: '2016-03-21T13:42:25.204Z'
 title: The Autobiography of Jeffrey VanderVeen
 author: []
 sourcePath: _posts/2016-03-21-the-conformist-manifesto.md
