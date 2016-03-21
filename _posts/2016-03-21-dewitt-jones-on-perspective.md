@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'https://www.youtube.com/watch?v=tqF_D5GkrAo'
-datePublished: '2016-03-21T13:45:47.819Z'
-dateModified: '2016-03-21T13:45:44.947Z'
+description: PERSPECTIVE
+datePublished: '2016-03-21T13:55:15.064Z'
+dateModified: '2016-03-21T13:51:17.056Z'
 title: 'Dewitt Jones '
 author: []
 sourcePath: _posts/2016-03-21-dewitt-jones-on-perspective.md
