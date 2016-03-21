@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: How It All Goes Down
-datePublished: '2016-03-21T13:53:08.164Z'
-dateModified: '2016-03-21T13:52:08.771Z'
+datePublished: '2016-03-21T14:00:55.474Z'
+dateModified: '2016-03-21T13:59:44.411Z'
 title: The Autobiography of Jeffrey VanderVeen
 author: []
 sourcePath: _posts/2016-03-21-the-conformist-manifesto.md
@@ -19,12 +19,12 @@ publisher:
   url: null
   favicon: null
 url: the-autobiography-of-jeffrey-vanderveen/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ca6fc7475416f5930663f5eb8f0c41ab82b81e1d.jpg)
 
-How It All Goes Down
+How It Went Down
 
 In Part 1, VanderVeen talks about his reasons for writing
 his autobiography. He ponders over how everyone imagine themselves to be unique
