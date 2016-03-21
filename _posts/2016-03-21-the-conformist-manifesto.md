@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: How It All Goes Down
-datePublished: '2016-03-21T03:23:55.751Z'
-dateModified: '2016-03-21T03:23:55.046Z'
-title: ''
+datePublished: '2016-03-21T03:38:56.005Z'
+dateModified: '2016-03-21T03:36:42.470Z'
+title: The Autobiography of Jeffrey VanderVeen
 author: []
 sourcePath: _posts/2016-03-21-the-conformist-manifesto.md
 published: true
@@ -45,7 +45,7 @@ engineer. In Dubai he discovers his passion for sports and martial arts and
 pursues them tirelessly at the cost of his academics.
 
 The motto of his teen years was "I don't care what you do as
-long as you come first in class", His parents favourite quote. He talks about how his parents were extremely
+long as you come first", His parents favourite quote. He talks about how his parents were extremely
 strict about all things educational and how they him to excel down the path
 they felt was right for him while contrarily fuelling his desire to be first
 and stand out.
@@ -69,5 +69,3 @@ future of his life.
 The autobiography ends with VanderVeen trying to unlearn
 what he learned in twenty nine years of conforming by writing his first
 Creativity and Innovation report.
-
-�����/����+\\
