@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: How It All Goes Down
-datePublished: '2016-03-21T04:25:42.927Z'
-dateModified: '2016-03-21T04:25:23.413Z'
+datePublished: '2016-03-21T04:36:03.168Z'
+dateModified: '2016-03-21T04:35:28.391Z'
 title: The Autobiography of Jeffrey VanderVeen
 author: []
 sourcePath: _posts/2016-03-21-the-conformist-manifesto.md
@@ -22,6 +22,8 @@ url: the-conformist-manifesto/index.html
 _type: Article
 
 ---
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ca6fc7475416f5930663f5eb8f0c41ab82b81e1d.jpg)
+
 How It All Goes Down
 
 In Part 1, VanderVeen talks about his reasons for writing
@@ -34,7 +36,6 @@ He describes his early life in India and his love for the
 arts as a child. Vanderveen then talks about how he instantly conforms to the
 19th-century-factory-model education system and excels in structured
 education, at the cost of all things fun.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ca6fc7475416f5930663f5eb8f0c41ab82b81e1d.jpg)
 
 Part 2 begins with Vanderveen writing from Dubai, UAE,
 receiving letters from his family back in India. They keep telling him that he's
@@ -68,4 +69,3 @@ future of his life.
 The autobiography ends with VanderVeen trying to unlearn
 what he learned in twenty nine years of conforming by writing his first
 Creativity and Innovation report.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e5372e83-fbae-4833-9904-1e2851b550b5.jpg)
