@@ -11,8 +11,8 @@ description: >-
   a few tools that would help me overcome these barriers and open up and better
 
   organize my creative thought processes.
-datePublished: '2016-03-21T13:14:42.147Z'
-dateModified: '2016-03-21T13:14:18.007Z'
+datePublished: '2016-03-21T13:34:31.602Z'
+dateModified: '2016-03-21T13:34:02.670Z'
 title: Creativity and Self Reflection
 author: []
 sourcePath: _posts/2016-03-21-creativity-and-self-reflection.md
@@ -27,7 +27,8 @@ url: creativity-and-self-reflection/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6206455c-dea2-4a84-a138-53990321a58f.jpg)
+WHO AM I?
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b084fdce-e6ee-4cf8-86df-a8af5f651724.gif)
 
 The
 Creativity and Self-Reflection Worksheet has made me realize that my main
