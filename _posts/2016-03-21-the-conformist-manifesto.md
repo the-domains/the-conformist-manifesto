@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: the conformist manifesto
-datePublished: '2016-03-21T01:09:57.862Z'
-dateModified: '2016-03-21T01:08:47.346Z'
+datePublished: '2016-03-21T02:37:48.350Z'
+dateModified: '2016-03-21T02:37:35.937Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-21-the-conformist-manifesto.md
@@ -22,6 +22,4 @@ url: the-conformist-manifesto/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/901ac1d6-381e-4355-b35d-d3e0b9325225.jpg)
-
-the conformist manifesto
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/84f29276-1e53-46cc-bc19-d2a2733dbeb8.jpg)
