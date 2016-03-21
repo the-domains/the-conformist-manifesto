@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: PERSPECTIVE
-datePublished: '2016-03-21T14:00:54.653Z'
-dateModified: '2016-03-21T13:58:34.743Z'
+datePublished: '2016-03-21T23:01:42.676Z'
+dateModified: '2016-03-21T14:11:11.610Z'
 title: 'Dewitt Jones '
 author: []
 sourcePath: _posts/2016-03-21-dewitt-jones-on-perspective.md
@@ -19,11 +19,13 @@ publisher:
   url: null
   favicon: null
 url: dewitt-jones-on-perspective/index.html
-_type: Blurb
+_type: Article
 
 ---
 PERSPECTIVE
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0acfb578-6ecd-4966-aa5d-591cde64f0b1.jpg)
+
+"Turn around Jeffrey, You're shooting the wrong way!"
 
 Dewitt Jones very eloquently gives us a new perspective on perspective! There is no one right answer. There are infinite right answers. 
 
