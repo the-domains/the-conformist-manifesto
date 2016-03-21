@@ -5,14 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: >-
-  I could use
-
-  a few tools that would help me overcome these barriers and open up and better
-
-  organize my creative thought processes.
-datePublished: '2016-03-21T13:34:31.602Z'
-dateModified: '2016-03-21T13:34:02.670Z'
+description: WHO AM I?
+datePublished: '2016-03-21T13:51:47.165Z'
+dateModified: '2016-03-21T13:34:41.043Z'
 title: Creativity and Self Reflection
 author: []
 sourcePath: _posts/2016-03-21-creativity-and-self-reflection.md
