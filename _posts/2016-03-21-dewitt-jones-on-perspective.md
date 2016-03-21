@@ -3,12 +3,12 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "Dewitt Jones very eloquently gives us a new perspective on perspective! There is no one right answer. There are infinite right answers. The answers to all our questions have most likely been right in front of us the entire time, we just need the right 'lens' to view it and make sense of it."
-datePublished: '2016-03-21T12:55:42.668Z'
-dateModified: '2016-03-21T12:55:19.796Z'
-title: Dewitt Jones on Perspective
+datePublished: '2016-03-21T13:36:13.604Z'
+dateModified: '2016-03-21T13:35:37.714Z'
+title: 'Dewitt Jones '
 author: []
 sourcePath: _posts/2016-03-21-dewitt-jones-on-perspective.md
 published: true
@@ -22,6 +22,7 @@ url: dewitt-jones-on-perspective/index.html
 _type: Article
 
 ---
+PERSPECTIVE
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e614148b-c08a-4e74-8978-c5c16f4c461a.jpg)
 
 Dewitt Jones very eloquently gives us a new perspective on perspective! There is no one right answer. There are infinite right answers. The answers to all our questions have most likely been right in front of us the entire time, we just need the right 'lens' to view it and make sense of it.
