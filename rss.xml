@@ -4,21 +4,21 @@
         <description><![CDATA[The Conformist Manifesto]]></description>
         <link>https://thegrid.ai/theconformistmanifesto/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 05:08:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2016 05:11:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/theconformistmanifesto/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Debater]]></title>
+            <description><![CDATA[<article><h1>The Debater</h1><p>ENTP</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/90ec0937453fd093ee4b476afe8091d8c2fb026f.jpg"></article>]]></description>
+            <link>https://thegrid.ai/theconformistmanifesto/81715bf6-ac6d-4fd2-85bd-1383be5ae9ec/index.html</link>
+            <guid isPermaLink="false">81715bf6-ac6d-4fd2-85bd-1383be5ae9ec</guid>
+            <pubDate>Mon, 21 Mar 2016 05:11:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Autobiography of Jeffrey VanderVeen]]></title>
             <description><![CDATA[<article><h1>The Autobiography of Jeffrey VanderVeen</h1><p>How It All Goes Down</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ca6fc7475416f5930663f5eb8f0c41ab82b81e1d.jpg"></article>]]></description>
             <link>https://thegrid.ai/theconformistmanifesto/the-conformist-manifesto/index.html</link>
             <guid isPermaLink="false">fdc8c72f-dd95-40c7-a147-0b32bf06538c</guid>
             <pubDate>Mon, 21 Mar 2016 04:36:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/11653ed2-edf3-40c9-8bd4-99784aca43cd.jpg">]]></description>
-            <link>https://thegrid.ai/theconformistmanifesto/81715bf6-ac6d-4fd2-85bd-1383be5ae9ec/index.html</link>
-            <guid isPermaLink="false">81715bf6-ac6d-4fd2-85bd-1383be5ae9ec</guid>
-            <pubDate>Mon, 21 Mar 2016 05:08:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
