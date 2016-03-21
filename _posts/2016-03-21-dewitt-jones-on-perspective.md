@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: PERSPECTIVE
-datePublished: '2016-03-21T13:55:15.064Z'
-dateModified: '2016-03-21T13:51:17.056Z'
+datePublished: '2016-03-21T14:00:54.653Z'
+dateModified: '2016-03-21T13:58:34.743Z'
 title: 'Dewitt Jones '
 author: []
 sourcePath: _posts/2016-03-21-dewitt-jones-on-perspective.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: dewitt-jones-on-perspective/index.html
-_type: Article
+_type: Blurb
 
 ---
 PERSPECTIVE
