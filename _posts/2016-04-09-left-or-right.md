@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: What am I and what am I going to do with this info?
-datePublished: '2016-04-09T07:01:35.605Z'
-dateModified: '2016-04-09T06:58:41.180Z'
+description: Left or Right
+datePublished: '2016-04-09T07:06:00.576Z'
+dateModified: '2016-04-09T07:05:38.544Z'
 title: Left or Right?
 author: []
 authors: []
@@ -23,12 +23,12 @@ _type: Article
 
 ---
 Left or Right
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9fff73ec-b608-4b89-aa6b-37200208010f.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f19424b-81a4-4299-8c8c-6d3a3bdc54a8.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/40f2e23d-25ed-41a5-99ea-a31ddb909198.gif)
 
 An independent and obviously conclusive 12 minute test
 online tells me that the two hemispheres of my brain function in perfect
-harmony with each other with a slight propensity towards the right side.  
+harmony with each other with a slight propensity towards the right side.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f19424b-81a4-4299-8c8c-6d3a3bdc54a8.jpg)
 
 Did I already know this information?
 
